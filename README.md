@@ -1,7 +1,8 @@
 
 # Hi, I'm Yiğit 👋
 
-## Artificial Intelligence & Data Science | Computer Science Undergraduate
+## Artificial Intelligence & Data Science | Computer Science Undergraduate ' 📍 **Location:** Warsaw, Poland
+
 
 I'm a Computer Science undergraduate specializing in **Artificial Intelligence and Data Science** at VIZJA University in Warsaw, Poland.
 
